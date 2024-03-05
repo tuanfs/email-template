@@ -9,7 +9,7 @@ const transporter = nodemailer.createTransport({
 });
 
 const htmlContent = `
-<a href=" http://localhost:3001/login?username=tuanlv51&password=tuan  ">
+<a href="http://localhost:3001/login?username=tuanlv51&password=tuan">
 Login to website
 </a>
 `;
